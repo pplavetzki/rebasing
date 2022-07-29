@@ -8,8 +8,9 @@
 2. commit #5
 3. commit #6
 
-1. commit #6
-2. commit #7
-3. commit #8
+1. commit #7
+2. commit #8
+3. commit #9
 
-1. commit #9
+1. commit #10
+
